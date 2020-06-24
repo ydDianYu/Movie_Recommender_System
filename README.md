@@ -1,5 +1,5 @@
-# Movie_Recommender_System
+# movie-recommender-system
 
-This project uses the technique of Item-based Collaborative Filtering to make movie recommendations based on users' past rating activities.
+Use Item-based Collaborative Filtering to make movie recommendations.
 
-This project uses movie rating data from MovieLens (http://movielens.org), a movie recommendation service. The data is collected and made available by GroupLens Research (https://grouplens.org/datasets/movielens/).
+The movie rating data from MovieLens (http://movielens.org) is collected and made available by GroupLens Research (https://grouplens.org/datasets/movielens/).
